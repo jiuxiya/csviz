@@ -1,7 +1,7 @@
 {
   "name": "csviz",
-  "version": "1.0.0",
-  "description": "🎬 Turn any CSV into beautiful terminal charts — bar, line, table, sparklines. Zero dependencies.",
+  "version": "1.1.0",
+  "description": "🎬 Turn any CSV into beautiful terminal charts — bar, line, table, sparklines. Watch mode, filters, JSON/YAML export. Zero dependencies.",
   "bin": {
     "csviz": "./bin/csviz.js"
   },
@@ -23,7 +23,14 @@
     "tui",
     "sparkline",
     "data-visualization",
-    "no-dependencies"
+    "no-dependencies",
+    "watch",
+    "filter",
+    "export",
+    "json",
+    "yaml",
+    "cli-tool",
+    "data-analysis"
   ],
   "license": "MIT",
   "engines": {

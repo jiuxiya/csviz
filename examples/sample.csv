@@ -1,0 +1,11 @@
+Name,Department,Revenue,Growth,Region
+Alice,Engineering,12400,15,APAC
+Bob,Sales,8200,-3,EMEA
+Carol,Marketing,23100,42,APAC
+Dave,Engineering,18700,28,Americas
+Eve,Sales,5500,-8,EMEA
+Frank,Marketing,31200,65,Americas
+Grace,Engineering,9800,12,APAC
+Hank,Sales,14500,19,Americas
+Ivy,Marketing,7300,5,EMEA
+Jack,Engineering,27800,51,APAC
